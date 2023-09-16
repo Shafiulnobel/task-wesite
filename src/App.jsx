@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       {/* Heading Section Start */}
-      <div className="text-center container mx-auto"> 
+      <div className="text-center container mx-auto mt-6"> 
       <h1 className="text-4xl font-semibold">Discover Our Popular Courses</h1>
       <div className="flex justify-center">
       <p className="pt-5  lg:w-1/2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
