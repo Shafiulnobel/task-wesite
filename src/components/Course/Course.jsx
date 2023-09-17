@@ -35,7 +35,7 @@ const Course = ({ course }) => {
                            <p className="text-gray-400"><span className="pe-1"><FontAwesomeIcon icon={faVideo}></FontAwesomeIcon></span>{lecture} Lectures</p> 
                            </div>
                     </div>
-                    <div className="grid grid-cols-2 gap-3 items-center pt-4">
+                    <div className="grid grid-cols-2 gap-2 items-center pt-4">
        
                         <div className="flex justify-evenly">
 

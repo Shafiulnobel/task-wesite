@@ -1,0 +1,6 @@
+.title {
+    height: 60px; /* You can adjust the height as needed */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
